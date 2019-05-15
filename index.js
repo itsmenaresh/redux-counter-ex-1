@@ -18,7 +18,9 @@ class App extends Component {
   render() {
     return (
       <Fragment>
-       <Hello />
+        A simple React/Redux  Inc&Dec application:
+        <hr />
+        <Hello />
       </Fragment>
     );
   }
